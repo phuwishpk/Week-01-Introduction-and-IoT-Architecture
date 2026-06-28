@@ -118,8 +118,7 @@ Application Layer คือชั้นที่ทำให้ IoT “พูด
 
 #  MQTT (Message Queue Telemetry Transport)
 
-![](300-Teaching/2569.01/03376134_APPLICATIONS_OF_INTERNET_OF_THINGS/Week-01/Pasted%20image%2020260629004403.png)
-
+![](Images/MQTT.png)
 ## 1) แนวคิดหลักของ MQTT
 
 MQTT เป็นโปรโตคอลสื่อสารแบบ **publish/subscribe-based messaging** ที่ออกแบบมาเพื่อรองรับอุปกรณ์ IoT พลังงานต่ำและเครือข่ายที่มีความเสถียรต่ำ โดยเน้นให้:
